@@ -12,7 +12,7 @@ Além disso, integramos o projeto com uma **API externa pública** para enriquec
 
 - Danilo Teixeira de Carvalho
 - Eduardo José Alexandre Rocha 
-- Isabel Luggon Leitão de Oliveira 
+- Isabel Lugon Leitão de Oliveira 
 - João Gabriel Magalhães
 - José Roberval Vieira Gomes Neto
 - Nathan Mansur Tenório
