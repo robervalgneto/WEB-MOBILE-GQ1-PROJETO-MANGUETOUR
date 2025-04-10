@@ -20,6 +20,6 @@ Além disso, integramos o projeto com uma **API externa pública** para enriquec
 ## Links:
 
 - [Repositório no GitHub](https://github.com/robervalgneto/WEB-MOBILE-GQ1-PROJETO-MANGUETOUR)  
-- [Site Publicado](web-mobile-gq-1-projeto-manguetour.vercel.app)  
+- [Site Publicado]([web-mobile-gq-1-projeto-manguetour.vercel.app](https://web-mobile-gq-1-projeto-manguetour.vercel.app/))  
 
 ---
