@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f24b6026.css",
+    "main.js": "/static/js/main.b5c0a260.js",
+    "static/media/marco_zero.jpg": "/static/media/marco_zero.b85f366e5c61fb093fa2.jpg",
+    "static/media/rua_da_moeda.jpg": "/static/media/rua_da_moeda.efa68d18d9c05edb30ab.jpg",
+    "static/media/instituto_ricardo_brennand.jpg": "/static/media/instituto_ricardo_brennand.c98cf84840f2edc710ad.jpg",
+    "static/media/alto_da_se.jpg": "/static/media/alto_da_se.b2be24f0958e565679e0.jpg",
+    "static/media/parque_das_esculturas.jpg": "/static/media/parque_das_esculturas.d83cd7f5bed04ce9db84.jpg",
+    "static/media/estelita.jpg": "/static/media/estelita.81282b969444d16d42d5.jpg",
+    "index.html": "/index.html",
+    "main.f24b6026.css.map": "/static/css/main.f24b6026.css.map",
+    "main.b5c0a260.js.map": "/static/js/main.b5c0a260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24b6026.css",
+    "static/js/main.b5c0a260.js"
+  ]
+}
