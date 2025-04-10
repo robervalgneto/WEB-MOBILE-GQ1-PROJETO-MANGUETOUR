@@ -35,8 +35,8 @@ body {
 
 
 .navbar button {
-  margin-left: 10px;
-  padding: 8px 16px;
+  margin-left: 5px;
+  padding: 8px 8px;
   background-color: var(--luz);
   color: var(--cimento);
   border: none;
@@ -47,8 +47,8 @@ body {
 }
 
 .navbar button:hover {
-  background-color: var(--destaque);
-  color: var(--sangue);
+  background-color: var(--sangue);
+  color: var(--luz);
 }
 
 .form-box {
@@ -71,7 +71,7 @@ body {
 }
 
 .form-box input {
-  width: 100%;
+  width: 92%;
   padding: 8px;
   margin: 6px 0;
   border: 1px solid #ccc;
@@ -79,13 +79,13 @@ body {
 }
 
 .form-box button {
-  width: 100%;
-  margin-top: 10px;
-  padding: 10px;
-  background-color: var(--cimento);
+  width: 95%;
+  margin-top: 8px;
+  padding: 8px;
+  background-color: var(--sangue);
   color: var(--luz);
   border: none;
-  border-radius: 4px;
+  border-radius: 6px;
   cursor: pointer;
   font-weight: bold;
 }
