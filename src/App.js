@@ -96,7 +96,7 @@ function Home() {
       <ul>
         {pontosTuristicos.map(ponto => (
           <li key={ponto.id}>
-            <Link to={/detalhes/${ponto.id}}>
+            <Link to={`/detalhes/${ponto.id}`}>
               <img src={ponto.imagem} alt={ponto.nome} className="imagem-ponto" />
               <h2>{ponto.nome}</h2>
             </Link>
@@ -106,6 +106,7 @@ function Home() {
     </div>
   );
 }
+
 
 function Detalhes() {
   const { id } = useParams();
