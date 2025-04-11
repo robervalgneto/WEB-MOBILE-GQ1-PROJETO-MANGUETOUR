@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './styles.css';
 import App from './App';
-import Apitarefas from 'Apitarefas.js';
-import Api_stack from 'Api_stack.js';
+import Apitarefas from './API/Apitarefas';
+import Api_stack from './APISTACK/Api_stack';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
