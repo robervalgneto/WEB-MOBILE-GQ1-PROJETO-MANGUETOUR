@@ -3,14 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './styles.css';
 import App from './App';
 import Apitarefas from './API/Apitarefas';
-import APIIP from './APISTACK/APIIP';
+import APIIP from './APISTACK/Api_stack';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
     <Apitarefas />
-    <APPIP />
+    <Api_stack />
   </React.StrictMode>
 );
 
