@@ -8,7 +8,7 @@ const LocationInfo = () => {
     const fetchLocation = async () => {
       try {
         const response = await fetch(
-          `http://api.ipstack.com/check?access_key=d87664a78fe68ddb8e809c4600bc0e16
+          `http://api.ipstack.com/check?access_key=d87664a78fe68ddb8e809c4600bc0e16`
         );
 
         if (!response.ok) {
